@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-09",
+  "templates": [
+    {
+      "id": "tpl_001",
+      "name": "Classroom Manager",
+      "category": "Management",
+      "description": "قالب تنظيم الصف الدراسي والحضور.",
+      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/classroom_mgr.json"
+    }
+  ],
+  "categories": ["Management", "Planning", "Resources"]
+}
