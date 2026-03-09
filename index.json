@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-09T21:30:00Z",
+  "config": {
+    "supportUrl": "https://worktet.carrd.co",
+    "helpUrl": "https://helpworktet.carrd.co",
+    "minClientVersion": "1.0.0"
+  },
+  "templates": [
+    {
+      "id": "tpl_001",
+      "name": "Classroom Manager",
+      "category": "Management",
+      "description": "قالب لتنظيم الحضور والغياب اليومي للطلاب.",
+      "lastSync": 1704067200,
+      "downloadUrl": "https://yourusername.github.io/worktet-cloud/templates/classroom_mgr.json"
+    },
+    {
+      "id": "tpl_002",
+      "name": "Weekly Lesson Plan",
+      "category": "Planning",
+      "description": "تخطيط الدروس الأسبوعي المتوافق مع المناهج الحديثة.",
+      "lastSync": 1704067300,
+      "downloadUrl": "https://yourusername.github.io/worktet-cloud/templates/weekly_plan.json"
+    }
+  ],
+  "categories": ["Management", "Planning", "Exams", "Resources"]
+}
