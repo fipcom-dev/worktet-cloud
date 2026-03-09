@@ -1,16 +1,12 @@
-# 🚀 Worktet Cloud Services
+# ☁️ Worktet Cloud Services
+The official cloud repository for **Worktet** software by **FiPCOM**.
 
-Welcome to the official cloud repository for **Worktet**. This repository serves as the central hub for template synchronization and application configuration.
+## 🚀 Live API Endpoints
+- **Cloud Index:** [index.json](https://fipcom-dev.github.io/worktet-cloud/index.json)
+- **Status:** Operational ✅
 
-## 🔗 Cloud Index API
-Use the following endpoint in the `CloudIndexService`:
-- **Production URL:** `https://fipcom-dev.github.io/worktet-cloud/index.json`
+## 🛠 Integration
+To use this in the C# client, point your `HttpClient` to the index link above.
 
-## 📂 Repository Structure
-- `/index.json`: The main entry point for all available templates.
-- `/templates/`: Contains individual JSON files for classroom and planning tools.
-
-## 🛠️ Developer Notes
-- **Security:** Ensure HTTPS is enforced for all requests.
-- **Cache:** Default local cache duration is set to 60 minutes.
-- **Contact:** Support via [worktet.carrd.co](https://worktet.carrd.co)
+---
+© 2026 FiPCOM Development Network.
