@@ -2,7 +2,7 @@
 The official cloud repository for **Worktet** software by **FiPCOM**.
 
 ## 🚀 Live API Endpoints
-- **Cloud Index:** [index.json](https://fipcom-dev.github.com/worktet-cloud/index.json)
+- **Cloud Index:** [index.json](https://fipcom-dev.github.io/worktet-cloud/index.json)
 - **Status:** Operational ✅
 
 ## 🛠 Integration
