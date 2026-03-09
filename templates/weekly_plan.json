@@ -1,0 +1,12 @@
+{
+  "id": "tpl_002",
+  "name": "Weekly Lesson Plan",
+  "category": "Planning",
+  "author": "FiPCOM",
+  "lastUpdate": "2026-03-09",
+  "data": {
+    "header": "Weekly Planning Template",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "notes": "Enter your weekly objectives here."
+  }
+}
