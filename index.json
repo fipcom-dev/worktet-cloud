@@ -1,14 +1,18 @@
 {
+  "project": "Worktet",
+  "developer": "FiPCOM",
   "version": "1.0.0",
   "lastUpdated": "2026-03-09",
+  "config": {
+    "serverStatus": "online",
+    "supportUrl": "https://worktet.carrd.co"
+  },
   "templates": [
     {
       "id": "tpl_001",
-      "name": "Classroom Manager",
-      "category": "Management",
-      "description": "قالب تنظيم الصف الدراسي والحضور.",
-      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/classroom_mgr.json"
+      "name": "Weekly Lesson Plan",
+      "category": "Planning",
+      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/weekly_plan.json"
     }
-  ],
-  "categories": ["Management", "Planning", "Resources"]
+  ]
 }
