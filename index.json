@@ -2,7 +2,7 @@
   "project": "Worktet",
   "developer": "FiPCOM",
   "version": "1.0.0",
-  "lastUpdated": "2026-03-09",
+  "lastUpdated": "2026-03-10",
   "config": {
     "serverStatus": "online",
     "supportUrl": "https://worktet.carrd.co"
@@ -13,6 +13,18 @@
       "name": "Weekly Lesson Plan",
       "category": "Planning",
       "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/weekly_plan.json"
+    },
+    {
+      "id": "tpl_002",
+      "name": "Classroom Manager",
+      "category": "Management",
+      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/classroom_mgr.json"
+    },
+    {
+      "id": "tpl_003",
+      "name": "Quiz Generator",
+      "category": "Assessment",
+      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/quiz_template.json"
     }
   ]
 }
