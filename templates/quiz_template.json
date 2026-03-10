@@ -1,14 +1,50 @@
 {
   "id": "tpl_003",
-  "name": "Quiz Generator",
-  "category": "Assessment",
-  "fields": [
-    {"label": "اسم المادة", "type": "text"},
-    {"label": "عدد الأسئلة", "type": "number"},
-    {"label": "المستوى الدراسي", "type": "dropdown", "options": ["ابتدائي", "إعدادي", "ثانوي"]}
-  ],
-  "style": {
-    "primaryColor": "#008080",
-    "fontSize": "14px"
+  "name": "Quiz & Assessment Generator",
+  "category": "TpT Resources",
+  "targetPlatform": "Teachers Pay Teachers",
+  "version": "1.0.0",
+  "metadata": {
+    "usage": "Printable PDF / Easel Activity",
+    "orientation": "Portrait",
+    "pageSize": "A4 / Letter"
+  },
+  "structure": {
+    "branding": {
+      "showTermsOfUse": true,
+      "creditPage": "Required",
+      "storeLink": "https://www.teacherspayteachers.com/Store/YourStore"
+    },
+    "sections": [
+      {
+        "id": "sec_01",
+        "title": "Student Information",
+        "fields": ["Name", "Date", "Score", "Class"]
+      },
+      {
+        "id": "sec_02",
+        "title": "Assessment Content",
+        "types": [
+          {
+            "type": "Matching",
+            "label": "سؤال التوصيل",
+            "columns": ["Term", "Definition"]
+          },
+          {
+            "type": "MultipleChoice",
+            "label": "الاختيار من متعدد",
+            "optionsCount": 4
+          },
+          {
+            "type": "FillInTheBlanks",
+            "label": "ملء الفراغات"
+          }
+        ]
+      }
+    ],
+    "tpt_seo": {
+      "suggestedKeywords": ["Quiz", "Assessment", "Printable", "Worksheet", "No Prep"],
+      "gradeLevels": ["Grade 1", "Grade 2", "Grade 3", "Middle School"]
+    }
   }
 }
