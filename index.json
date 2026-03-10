@@ -22,9 +22,15 @@
     },
     {
       "id": "tpl_003",
-      "name": "Quiz Generator",
+      "name": "Quiz & Assessment Generator",
       "category": "Assessment",
       "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/quiz_template.json"
+    },
+    {
+      "id": "tpl_004",
+      "name": "Traceable Handwriting",
+      "category": "Preschool",
+      "downloadUrl": "https://fipcom-dev.github.io/worktet-cloud/templates/traceable_template.json"
     }
   ]
 }
