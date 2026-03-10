@@ -1,0 +1,14 @@
+{
+  "id": "tpl_003",
+  "name": "Quiz Generator",
+  "category": "Assessment",
+  "fields": [
+    {"label": "اسم المادة", "type": "text"},
+    {"label": "عدد الأسئلة", "type": "number"},
+    {"label": "المستوى الدراسي", "type": "dropdown", "options": ["ابتدائي", "إعدادي", "ثانوي"]}
+  ],
+  "style": {
+    "primaryColor": "#008080",
+    "fontSize": "14px"
+  }
+}
