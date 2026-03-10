@@ -1,0 +1,31 @@
+{
+  "id": "tpl_004",
+  "name": "Traceable Handwriting Sheets",
+  "category": "TpT Resources",
+  "version": "1.0.0",
+  "config": {
+    "fontType": "Dotted/Tracing",
+    "languages": ["Arabic", "Persian", "English"],
+    "layout": "Grid-based"
+  },
+  "data_structure": {
+    "title": "اكتب الحرف / Write the Letter",
+    "practice_lines": [
+      {
+        "language": "Arabic",
+        "characters": ["أ", "ب", "ت", "ث"],
+        "lineCount": 5
+      },
+      {
+        "language": "English",
+        "characters": ["A", "B", "C", "D"],
+        "lineCount": 5
+      }
+    ],
+    "styling": {
+      "dottedFontName": "KG Primary Dots",
+      "arrowIndicators": true,
+      "color": "#808080"
+    }
+  }
+}
